@@ -26,3 +26,6 @@ A complete Java-based Online Bookstore System with:
 - Esraa Ramadan Attia (G1) - Books.java
 - Cinderella Nasser (G2) - ShoppingCart.java
 - Sondos Essam (G2) - Customer.java
+
+## Class Diagram
+![image alt](https://github.com/samabay/oodb/blob/ddf6618ae22c04b7b0ffc3564bd468fb53883acc/Untitled%20Diagram.drawio.png)
