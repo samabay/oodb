@@ -29,3 +29,8 @@ A complete Java-based Online Bookstore System with:
 
 ## Class Diagram
 ![image alt](https://github.com/samabay/oodb/blob/ddf6618ae22c04b7b0ffc3564bd468fb53883acc/Untitled%20Diagram.drawio.png)
+
+## Screenshots pf GUI
+![image alt](https://github.com/samabay/oodb/blob/abfeef4169594369fde0405c51488a82fa25f032/Screenshot%202025-12-03%20135814.png)
+![image alt](https://github.com/samabay/oodb/blob/abfeef4169594369fde0405c51488a82fa25f032/Screenshot%202025-12-03%20135911.png)
+![image alt](https://github.com/samabay/oodb/blob/abfeef4169594369fde0405c51488a82fa25f032/Screenshot%202025-12-03%20135933.png)
