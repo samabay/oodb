@@ -28,7 +28,7 @@ A complete Java-based Online Bookstore System with:
 - Sondos Essam (G2) - Customer.java
 
 ## 🖼️ Class Diagram
-![image alt](https://github.com/samabay/oodb/blob/6f496fd4c5e7418c24148253479c0692bc0117d8/cd.drawio.png)
+![image alt](https://github.com/samabay/oodb/blob/6b4f413d0dc60acd449b56f687ae3ac99e0833d1/cd.drawio.png)
 
 ## 📱 Screenshots of GUI
 ![image alt](https://github.com/samabay/oodb/blob/abfeef4169594369fde0405c51488a82fa25f032/Screenshot%202025-12-03%20135814.png)
