@@ -22,8 +22,8 @@ A complete Java-based Online Bookstore System with:
 3. **ObjectDB 2.9.4** JAR files
 
 👥 Team Members
-- Sama Hisham Ahmed (G1) - GUI, main, database, class diagram
-- Esraa Ramadan Attia (G1) - Books.java
+- Sama Hisham Ahmed (G1) - GUI, main, database
+- Esraa Ramadan Attia (G1) - Books.java, class diagram
 - Cinderella Nasser (G2) - ShoppingCart.java
 - Sondos Essam (G2) - Customer.java
 
